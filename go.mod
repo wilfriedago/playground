@@ -8,7 +8,6 @@ require (
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/SherClockHolmes/webpush-go v1.1.2
 	github.com/andybalholm/cascadia v1.2.0 // indirect
-	github.com/aokoli/goutils v1.1.0 // indirect
 	github.com/aws/aws-sdk-go v1.34.6
 	github.com/deckarep/golang-set v1.7.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -27,6 +26,6 @@ require (
 	github.com/olekukonko/tablewriter v0.0.4 // indirect
 	github.com/spf13/viper v1.7.1
 	github.com/vanng822/go-premailer v1.9.0 // indirect
-	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	google.golang.org/api v0.30.0
 )
