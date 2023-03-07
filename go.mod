@@ -3,12 +3,11 @@ module github.com/techx/playground
 go 1.14
 
 require (
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/SherClockHolmes/webpush-go v1.1.2
 	github.com/andybalholm/cascadia v1.2.0 // indirect
-	github.com/aokoli/goutils v1.1.0 // indirect
 	github.com/aws/aws-sdk-go v1.34.6
 	github.com/deckarep/golang-set v1.7.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
